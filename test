@@ -1,0 +1,6 @@
+echo 'ls'
+echo 'expr 1 + 1'
+echo comm* > test-file
+ls -al 'cat test-file'
+ls -al \'cat test-file\'
+echo '\expr 1 + 1\'

@@ -1,0 +1,33 @@
+Andrew Barthel
+CS252 Systems Programming
+Lab 3 : Shell Project
+
+TODO: Tab completion
+
+Features:
+	
+	IO REDIRECTION: DONE
+	EXECUTION OF SIMPLE COMMANDS: DONE
+	PIPEING: DONE
+	BACKGROUND: DONE
+	EXIT: DONE
+	BUILTINS: DONE
+	PRINTENV: DONE
+	ZOMBIE: DONE 
+	WILDCARDS: DONE
+	SETENV: DONE
+	UNSETENV: DONE 
+	QUOTES: DONE 
+	ESCAPE CHARS: DONE
+	VARIABLE EXPANSION: DONE
+	TILDE EXPANSION: DONE
+	PROMPT SUPRESSION: DONE
+	LINE EDITOR: DONE 
+	HISTORY: DONE
+	SUBSHELL: DONE 
+	TAB COMPLETION: VERY PARTIALLY DONE
+	ADDED FEATUTES:
+		quit command - acts as 'exit'
+		color commands - changes prompt color
+		boilerup command - prints Hail Purdue!
+		! command - executes most previously executed command
